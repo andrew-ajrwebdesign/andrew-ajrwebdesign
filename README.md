@@ -19,5 +19,3 @@ Every site I build starts from these two repositories:
 - **Nothing hardcoded.** If a value is on the site, it has an admin field.
 - **Measured, not guessed.** Lighthouse 90+ is the floor, and every performance claim in the code comments comes from a real before/after audit.
 - **Gated.** WordPress Coding Standards, PHPStan, unit tests and a pre-deploy gate run before anything ships.
-
-Also here: [wp-plugin-boilerplate](https://github.com/andrew-ajrwebdesign/wp-plugin-boilerplate).
